@@ -1,0 +1,8 @@
+Video URL:
+https://amrutak33.github.io/player/?list=https://raw.githubusercontent.com/amrutak33/020aba6897380b60/refs/heads/master/github_master.m3u8
+
+Embed Code:
+<iframe src="https://amrutak33.github.io/player/?list=https://raw.githubusercontent.com/amrutak33/020aba6897380b60/refs/heads/master/github_master.m3u8" width="800" height="450" frameborder="0" allowfullscreen></iframe>
+
+Thumbnail URL:
+https://i.ibb.co/tpN2SvGX/Toonworld4all-Haddi-Mera-Buddy-Season-05-Episode-56-01-The-wrongest-yard-576p-x264-Voot-Kids-WEB-DL.jpg
